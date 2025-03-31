@@ -1,5 +1,2 @@
-numpy
-streamlit
 scikit-learn==1.6.1
 nltk==3.8.1
-pandas
